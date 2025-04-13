@@ -35,11 +35,11 @@ const openingHours: Hours[] = [
   {
     day: "Saturday",
     opening: "09:00",
-    closing: "18:00",
+    closing: "16:00",
   },
   {
     day: "Sunday",
     opening: "09:00",
-    closing: "18:00",
+    closing: "15:00",
   },
 ];

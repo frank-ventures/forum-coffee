@@ -24,7 +24,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="scroll-smooth scroll-p-24 m-0 p-0">
       <body className={`antialiased`}>
         {children}
         <Footer />
