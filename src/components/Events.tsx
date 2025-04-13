@@ -34,7 +34,7 @@ function Event({
   eventDetails: string;
 }) {
   return (
-    <div className="event relative shrink-0 w-[80%] aspect-square rounded-xl">
+    <div className="event relative shrink-0 w-[80%] max-w-[500px] aspect-square rounded-xl">
       <img
         src={eventImg}
         alt=""
